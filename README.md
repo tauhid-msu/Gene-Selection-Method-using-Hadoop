@@ -1,2 +1,2 @@
 # Gene-Selection-Method-using-Hadoop
-Selecting Genes from high dimensional microarray using Hadoop based method 
+Selecting a small set of genes from high dimensional microarray gene expressions using Hadoop based parallel kNN method 
